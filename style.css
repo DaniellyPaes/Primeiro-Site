@@ -1,0 +1,29 @@
+#corpo{
+text-align: center;
+
+}
+
+
+.img-logo{
+    width: 100px;
+border-radius: 10px;
+}
+
+.images{
+width: 500px;
+
+}
+
+.contato-info{
+    width: 50%; /* Define a largura da primeira coluna */
+    float: left; /* Alinha a primeira coluna à esquerda */
+    padding: 20px; /* Adicione algum espaço entre as colunas */
+}
+
+.mapa{
+border-radius: 30px;
+margin-left: 600px;
+width: 50%; /* Define a largura da segunda coluna */
+float: left; /* Alinha a segunda coluna à esquerda */
+
+}
